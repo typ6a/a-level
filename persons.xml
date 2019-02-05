@@ -1,0 +1,14 @@
+<persons>
+  <person>
+    <name>Vasil</name>
+    <surname>Ivanov</surname>
+  </person>
+  <person>
+    <name>Vlad</name>
+    <surname>Petrov</surname>
+  </person>
+  <person>
+    <name>Dmitry</name>
+    <surname>Znak</surname>
+  </person>
+</persons>
